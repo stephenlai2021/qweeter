@@ -41,11 +41,11 @@
           leave-active-class="animated fadeOut"
         >
           <q-item class="q-py-md qweet" v-for="qweet in qweets" :key="qweet.id">
-            <q-item-section avatar top>
+            <!-- <q-item-section avatar top>
               <q-avatar size="xl">
                 <img src="/ninja.png" />
               </q-avatar>
-            </q-item-section>
+            </q-item-section> -->
 
             <q-item-section>
               <q-item-label class="text-subtitle1">
