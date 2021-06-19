@@ -12,11 +12,11 @@
             counter
             autogrow
           >
-            <template v-slot:before>
+            <!-- <template v-slot:before>
               <q-avatar size="xl">
                 <img src="/ninja.png" />
               </q-avatar>
-            </template>
+            </template> -->
           </q-input>
         </div>
         <div class="col col-shrink">
